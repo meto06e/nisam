@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Nisam Nakliyat">
+  <rect width="64" height="64" rx="14" fill="#073b4c"/>
+  <path d="M11 37h6l5-14h22l8 8v14H11z" fill="#fff"/>
+  <path d="M23 27h18l5 5H21z" fill="#06d6a0"/>
+  <circle cx="23" cy="45" r="6" fill="#ffb703" stroke="#073b4c" stroke-width="3"/>
+  <circle cx="46" cy="45" r="6" fill="#ffb703" stroke="#073b4c" stroke-width="3"/>
+  <path d="M4 30h13M3 35h11M7 40h8" stroke="#ffb703" stroke-width="3" stroke-linecap="round"/>
+</svg>

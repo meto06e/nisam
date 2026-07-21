@@ -1,0 +1,18 @@
+{
+  "name": "Nisam Nakliyat",
+  "short_name": "Nisam",
+  "description": "Ankara parça eşya ve küçük yük taşıma",
+  "lang": "tr-TR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#073b4c",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
