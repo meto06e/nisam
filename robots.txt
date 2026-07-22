@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.nisamnakliyat.com/sitemap.xml
+Sitemap: https://https://nisamparcayuktasima.com/sitemap.xml

@@ -16,7 +16,7 @@ DOSYA YAPISI
 YAYINA ALMA
 1) Klasör içindeki tüm dosyaları hostinginizin public_html klasörüne yükleyin.
 2) Telefon ve WhatsApp numarası hazırdır: 0507 889 47 56 / 905078894756.
-3) Gerçek alan adınız https://www.nisamnakliyat.com/ değilse şu dosyalarda değiştirin:
+3) Gerçek alan adınız https://https://nisamparcayuktasima.com/ değilse şu dosyalarda değiştirin:
    - index.html: canonical, Open Graph URL'leri ve JSON-LD URL'leri
    - robots.txt: sitemap adresi
    - sitemap.xml: site adresi
